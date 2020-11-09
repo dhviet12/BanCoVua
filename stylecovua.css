@@ -1,0 +1,14 @@
+table{
+    width: 700px;
+    height: 500px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+tr{
+    background-color: black;
+}
+th{
+    background-color: orange;
+}
